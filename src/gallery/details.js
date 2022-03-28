@@ -1,6 +1,6 @@
 /****** Image Details Component ******* */
 import { get_image_details } from "../services/gallery";
-import { React, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import {
   EyeFill,
   CloudArrowDownFill,
