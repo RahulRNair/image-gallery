@@ -1,7 +1,7 @@
 /****** Image Listing Component ******* */
 import { Pagination,Spinner } from "react-bootstrap";
 import { get_images } from "../services/gallery";
-import { React, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, useParams, useNavigate } from "react-router-dom";
 
 import Error from "./error";
