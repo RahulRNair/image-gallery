@@ -71,7 +71,7 @@ function Details() {
                 <p className="product-description">
                   <ChatFill />
                   <span className="review-no mx-2">
-                    {records[0]?.comments} Comments
+                    {records[0]?.comments} Comments1
                   </span>
                 </p>
                 <div
